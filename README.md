@@ -1,5 +1,5 @@
-Project Name: Museum
-====================
+Project Name: Museum VR
+=======================
 
 > A VR walk in a fictional museum gallery.
 
